@@ -304,5 +304,7 @@ nav button svg {
     position: absolute;
     object-fit: cover;
     transform: scaleX(0.7) scaleY(0);
+    border-radius: 30px;
     opacity: 0;
+    z-index: 9999;
 }
